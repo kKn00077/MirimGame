@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MirimGame", "Assembly-CSharp-firstpass.csproj", "{2DADBE0B-F183-9538-36FA-F3E4E4C81ABE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MirimGame", "Assembly-CSharp.csproj", "{9CFCC88E-061D-48A8-1D17-FF3AFCFCA886}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MirimGame", "Assembly-CSharp-Editor-firstpass.csproj", "{24A4550C-6543-03FE-5254-0285C997CE6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DADBE0B-F183-9538-36FA-F3E4E4C81ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DADBE0B-F183-9538-36FA-F3E4E4C81ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DADBE0B-F183-9538-36FA-F3E4E4C81ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DADBE0B-F183-9538-36FA-F3E4E4C81ABE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CFCC88E-061D-48A8-1D17-FF3AFCFCA886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CFCC88E-061D-48A8-1D17-FF3AFCFCA886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CFCC88E-061D-48A8-1D17-FF3AFCFCA886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CFCC88E-061D-48A8-1D17-FF3AFCFCA886}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24A4550C-6543-03FE-5254-0285C997CE6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24A4550C-6543-03FE-5254-0285C997CE6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24A4550C-6543-03FE-5254-0285C997CE6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24A4550C-6543-03FE-5254-0285C997CE6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
